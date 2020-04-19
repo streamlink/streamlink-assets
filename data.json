@@ -17,6 +17,19 @@
         ]
     },
     {
+        "url": "https://ffmpeg.zeranoe.com/builds/readme/win64/static/ffmpeg-4.2.2-win64-static-readme.txt",
+        "checksum": "e7068569367cb22af2b087a9af9e4c2415ad4edd43eb7aac9496d3bfa09ee1fd",
+        "filename": "ffmpeg-4.2.2-win64-static-readme.txt",
+        "sourcedir": ".",
+        "targetdir": "ffmpeg",
+        "files": [
+            {
+                "from": "ffmpeg-4.2.2-win64-static-readme.txt",
+                "to": "BUILDINFO.txt"
+            }
+        ]
+    },
+    {
         "url": "https://rtmpdump.mplayerhq.hu/download/rtmpdump-2.3-windows.zip",
         "checksum": "6948aa372f04952d5675917c6ca2c7c0bf6b109de21a4323adc93247fff0189f",
         "filename": "rtmpdump-2.3-windows.zip",
