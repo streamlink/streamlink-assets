@@ -17,14 +17,14 @@
         ]
     },
     {
-        "url": "https://ffmpeg.zeranoe.com/builds/readme/win64/static/ffmpeg-4.2.2-win64-static-readme.txt",
-        "checksum": "e7068569367cb22af2b087a9af9e4c2415ad4edd43eb7aac9496d3bfa09ee1fd",
-        "filename": "ffmpeg-4.2.2-win64-static-readme.txt",
+        "url": "https://ffmpeg.zeranoe.com/builds/readme/win32/static/ffmpeg-4.2.2-win32-static-readme.txt",
+        "checksum": "6252abd8981ff3b61728bf58868c3dab2d4f96495907bae15ebbdad6b9bb9934",
+        "filename": "ffmpeg-4.2.2-win32-static-readme.txt",
         "sourcedir": ".",
         "targetdir": "ffmpeg",
         "files": [
             {
-                "from": "ffmpeg-4.2.2-win64-static-readme.txt",
+                "from": "ffmpeg-4.2.2-win32-static-readme.txt",
                 "to": "BUILDINFO.txt"
             }
         ]
